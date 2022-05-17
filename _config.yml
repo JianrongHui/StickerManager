@@ -24,11 +24,11 @@ your_name                                 : HuiJianrong
 your_link                                 : hhttps://jianronghui.github.io/StickerManager/                     
 your_city                                 : ZhuHai                                
 email_address                             : hjryxy@gmail.com
-# facebook_username                         :                                           
-# instagram_username                        : 
-# twitter_username                          : 
-# github_username                           : HuiJianrong
-# youtube_username                          :
+facebook_username                         :                                           
+instagram_username                        : 
+twitter_username                          : 
+github_username                           : HuiJianrong
+youtube_username                          :
 
 
 
@@ -47,11 +47,11 @@ features                                  :
     description                           : 给表情包设置标签、关键字，需要的时候能快速的搜索到
     fontawesome_icon_name                 :  star
 
- - title                                  : 表情包下载
+  - title                                 : 表情包下载
     description                           : 表情包可下载到本地进行保存
     fontawesome_icon_name                 : arrow-alt-circle-down
 
- - title                                  : 表情包分享
+  - title                                 : 表情包分享
     description                           : 表情包可通过微信、QQ等快速分享给您的好友
     fontawesome_icon_name                 : link
 
